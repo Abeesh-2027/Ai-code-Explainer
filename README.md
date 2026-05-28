@@ -2,6 +2,9 @@
 
 > AI-powered code analysis running **100% locally** via Ollama + Qwen 2.5. No API keys. No cloud. No data leaving your machine.
 
+# 📸 Preview
+
+![img alt](https://github.com/Abeesh-2027/Ai-notes-generator/blob/fef35ec55133c31919b287f350ac8e80e3d2757a/Screenshot%20(108).png)
 
 ---
 

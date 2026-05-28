@@ -4,7 +4,14 @@
 
 # 📸 Preview
 
-![img alt](https://github.com/Abeesh-2027/Ai-notes-generator/blob/fef35ec55133c31919b287f350ac8e80e3d2757a/Screenshot%20(108).png)
+![img alt](https://github.com/Abeesh-2027/Ai-code-Explainer/blob/010ba1dc5e9624778e533319adb7fa35a68ed056/Screenshot%20(119).png)
+![img alt](https://github.com/Abeesh-2027/Ai-code-Explainer/blob/010ba1dc5e9624778e533319adb7fa35a68ed056/Screenshot%20(120).png)
+![img alt](https://github.com/Abeesh-2027/Ai-code-Explainer/blob/010ba1dc5e9624778e533319adb7fa35a68ed056/Screenshot%20(121).png)
+![img alt](https://github.com/Abeesh-2027/Ai-code-Explainer/blob/010ba1dc5e9624778e533319adb7fa35a68ed056/Screenshot%20(122).png)
+![img alt](https://github.com/Abeesh-2027/Ai-code-Explainer/blob/010ba1dc5e9624778e533319adb7fa35a68ed056/Screenshot%20(123).png)
+![img alt](https://github.com/Abeesh-2027/Ai-code-Explainer/blob/010ba1dc5e9624778e533319adb7fa35a68ed056/Screenshot%20(124).png)
+![img alt](https://github.com/Abeesh-2027/Ai-code-Explainer/blob/010ba1dc5e9624778e533319adb7fa35a68ed056/Screenshot%20(125).png)
+![img alt](https://github.com/Abeesh-2027/Ai-code-Explainer/blob/010ba1dc5e9624778e533319adb7fa35a68ed056/Screenshot%20(126).png)
 
 ---
 
